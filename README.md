@@ -1,3 +1,3 @@
 # README #
 Nothing goes here yet.
-Just came back after a 7 month long break.
+Revisiting this section after a 7 month long break.
